@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "baseUrl": "src"
+  },
+  "include": ["src/**/*", "../staff_app/src/views/school/dashboard/pages/safety/recivesafety.js", "../staff_app/src/views/school/dashboard/pages/safety/enforcesafety.js"],
+  "exclude": ["node_modules"]
+}
